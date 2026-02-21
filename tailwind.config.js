@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'script': ['"Dancing Script"', 'cursive'],
+        'script': ['var(--font-dancing)'],
         'serif': ['"Playfair Display"', 'serif'],
       },
       animation: {

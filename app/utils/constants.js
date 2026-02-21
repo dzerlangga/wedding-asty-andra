@@ -1,8 +1,8 @@
 // Data konfigurasi yang bisa diubah dengan mudah
 export const WEDDING_DATE = "2027-12-15T10:00:00"; // Format: YYYY-MM-DDTHH:mm:ss
 export const COUPLE_NAME = "Senja & Erlangga";
-export const GROOM_NAME = "Senja Nur";
-export const BRIDE_NAME = "Erlangga Muhammad";
+export const GROOM_NAME = "Asty Fadilla Putri";
+export const BRIDE_NAME = "Roes Byandra Ariveano";
 export const EVENT_DATE = "Minggu, 15 Desember 2024";
 export const EVENT_TIME = "10:00 WIB - Selesai";
 export const EVENT_LOCATION = "Jalan Undangan";
